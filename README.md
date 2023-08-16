@@ -16,5 +16,3 @@ A modern full-stack Next 13 application.
   - Incremental Static Generation (ISR)
 
 # Link
-
-https://promptopia.vercel.app
