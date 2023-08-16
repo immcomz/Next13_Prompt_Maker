@@ -1,4 +1,4 @@
-![AI Prompt Sharing](https://i.ibb.co/9pQNZZy/Thumbnail-27.png)
+![AI Prompt Sharing](https://img-c.udemycdn.com/course/750x422/3873464_403c.jpg)
 
 ## Introduction
 
